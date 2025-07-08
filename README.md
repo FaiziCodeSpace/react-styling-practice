@@ -74,7 +74,7 @@ Licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🙋‍♂️ Maintained By
+## Maintained By
 
 **Faizan**  
 Aspiring MERN Stack Developer 💻  
