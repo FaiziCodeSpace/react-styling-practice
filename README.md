@@ -1,4 +1,4 @@
-# React Styling Practice 🧑‍🎨
+# React Styling Practice 
 
 This repository is dedicated to practicing different styling techniques in **React.js**.  
 The goal is to understand and implement various methods of styling React components to become more confident in building beautiful and responsive UIs.
